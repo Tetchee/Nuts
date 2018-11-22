@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="25" height="25" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="woodland_indoor_0" tilewidth="32" tileheight="32">
+  <image source="Z:/Stuffses for t3h n3w gam3/woodland_indoor_0.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="257" name="pink" tilewidth="32" tileheight="32">
+  <image source="Z:/Stuffses for t3h n3w gam3/pink.png" width="346" height="216"/>
+ </tileset>
+ <tileset firstgid="317" name="pink2" tilewidth="32" tileheight="32">
+  <image source="Z:/Nuts/Nuts/pink2.png" width="32" height="32"/>
+ </tileset>
+ <layer name="joku" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJwzZGBgMKQDZqQhhtkhSEMMs0ORhhhmhxIN8agd1LXDBYhdScRuJNoRAsShJOKwUTtG7Ri1Y0jZkQLEqSTiNBLtoBSP2kG6HbTGADHddYY=
+  </data>
+ </layer>
+ <layer name="HOMO" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFQxVco0DvUyLxMwrs+Eok/kaBHcMJbAHirUC8jYC6FiBuI9OOI0B8lIFw2lkIxIvJtOMKlKalHU8YiEufS4B4GZl2fGEYTZ8gQEk8jYJRMApoCwDBoycN
+  </data>
+ </layer>
+ <layer name="Eepos" width="25" height="25" opacity="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBhZgHOgHUBFsHOgHTAKBhVoAeI2ItUSk3aWYxFbCMSLqWgHNkCKHeSCJUC8jMZ2UBOQErfkAlzhbssIwUPFDlxxS007RsEoGCwAAI0NDgg=
+  </data>
+ </layer>
+ <layer name="PERSE" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxjYBhZgHOgHUBFsHOgHTAKBgSEQjGx4tgAMWlnORaxhUC8mIp2YAOk2EEuWALEy2hsBzUBNeKcEKBHuOOyg5p244rboRbno2AUEAMAgwkPtg==
+  </data>
+ </layer>
+ <layer name="SPORDe" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20ON6AAAHgzCcQAAQ==
+  </data>
+ </layer>
+ <layer name="Def" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20ON6AAAHgzCcQAAQ==
+  </data>
+ </layer>
+ <layer name="Collision" width="25" height="25" opacity="0">
+  <data encoding="base64" compression="zlib">
+   eJyzZWRgsB3FRGNaAlLtIMc99PDzYAyroWAHrdIZuh3INDF6yBWnpR3EhhU1/EFtMFjtoEdYDRc7SAWjdoxcO2iNAXtoLUs=
+  </data>
+ </layer>
+ <objectgroup name="ObjectLayer" width="25" height="25"/>
+</map>

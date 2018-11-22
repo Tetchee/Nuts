@@ -1,0 +1,2 @@
+Error: [yam2d::`anonymous-namespace'::RefCounter::~RefCounter] 6 Memory leaks detected!
+

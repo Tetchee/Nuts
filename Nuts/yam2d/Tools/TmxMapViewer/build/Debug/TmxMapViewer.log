@@ -1,0 +1,29 @@
+﻿Build started 2.4.2013 12:07:05.
+     1>Project "C:\Users\TTI12SHenriS\Desktop\yam2d\Tools\TmxMapViewer\build\TmxMapViewer.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\TmxMapViewer.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\TTI12SHenriS\Desktop\yam2d\\engine\include\ /IC:\Users\TTI12SHenriS\Desktop\yam2d\\engine\external\ /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt mapviewer.cpp
+         mapviewer.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\TmxMapViewer.exe.embed.manifest.res" Debug\TmxMapViewer_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\TTI12SHenriS\Desktop\yam2d\Tools\TmxMapViewer\build\..\bin\TmxMapViewer.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\TTI12SHenriS\Desktop\yam2d\\engine\lib\win32 libEGL.lib libGLES_cm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\TmxMapViewer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\TTI12SHenriS\Desktop\yam2d\Tools\TmxMapViewer\bin\TmxMapViewer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\TTI12SHenriS\Desktop\yam2d\Tools\TmxMapViewer\build\..\bin\TmxMapViewer.lib" /MACHINE:X86 Debug\TmxMapViewer.exe.embed.manifest.res
+         Debug\mapviewer.obj
+         C:\Users\TTI12SHenriS\Desktop\yam2d\engine\lib\win32\Debug\yam2d.lib
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\TmxMapViewer.exe.embed.manifest" /manifest Debug\TmxMapViewer.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\TmxMapViewer.exe.embed.manifest.res" Debug\TmxMapViewer_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\TTI12SHenriS\Desktop\yam2d\Tools\TmxMapViewer\build\..\bin\TmxMapViewer.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\TTI12SHenriS\Desktop\yam2d\\engine\lib\win32 libEGL.lib libGLES_cm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\TmxMapViewer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\TTI12SHenriS\Desktop\yam2d\Tools\TmxMapViewer\bin\TmxMapViewer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\TTI12SHenriS\Desktop\yam2d\Tools\TmxMapViewer\build\..\bin\TmxMapViewer.lib" /MACHINE:X86 Debug\TmxMapViewer.exe.embed.manifest.res
+         Debug\mapviewer.obj
+         C:\Users\TTI12SHenriS\Desktop\yam2d\engine\lib\win32\Debug\yam2d.lib
+         TmxMapViewer.vcxproj -> C:\Users\TTI12SHenriS\Desktop\yam2d\Tools\TmxMapViewer\build\..\bin\TmxMapViewer.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\TmxMapViewer.unsuccessfulbuild".
+         Touching "Debug\TmxMapViewer.lastbuildstate".
+     1>Done Building Project "C:\Users\TTI12SHenriS\Desktop\yam2d\Tools\TmxMapViewer\build\TmxMapViewer.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.82

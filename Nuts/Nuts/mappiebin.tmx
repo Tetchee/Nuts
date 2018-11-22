@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="25" height="25" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Aavikko" tilewidth="32" tileheight="32">
+  <image source="desert_1_0_6.png" width="593" height="444"/>
+ </tileset>
+ <tileset firstgid="235" name="treesv6_0_0" tilewidth="32" tileheight="32">
+  <image source="treesv6_0_0.jpg" width="672" height="192"/>
+ </tileset>
+ <tileset firstgid="361" name="ground_tiles" tilewidth="32" tileheight="32">
+  <image source="ground_tiles.png" width="672" height="701"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJzd0kkuRFEUxvFbiUQTFqAtxvqaa1dQmhXoF0AwNNBPX6IrjPWMEZQRgh1QduI/uIObk3Oj6jUhBr+8c897eV9yzg2MMQEOcIhr3ODW6S1FFFiXuMIr3vDu9KJmPFp5+/xEAV9OLx9RmaJFnCcxhWnP92HIjHksYNGey1GBSlTFlLGODWzacy3qUI+GmDKkVrShHR1Ovxo1Sh0mowe96EO/7TWiCWlR+/6REbTMLIYwbM+d6EK3qEuZXbPC/WYAg0pd7L30zU7OfNQ+R5xau5e+jDGMY0KZ/087lvfSlzGLOWdH7szdPLnLTJH7WMYKVrGmzLyUHc94+lvYxg52lfnLHYdxhGOc4FR5L3f8n/n2sIcc9hPMPsM5LhLMuMM9Hv7ArJPwlDLmWXhJxZvxwf9yQuGXM74BRAFq0A==
+  </data>
+ </layer>
+ <layer name="Collision" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20ON6AAAHgzCcQAAQ==
+  </data>
+ </layer>
+</map>

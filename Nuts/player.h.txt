@@ -1,0 +1,22 @@
+#include<iostream>
+#include <es_util.h>
+#include <Layer.h>
+#include <Texture.h>
+#include <Input.h>
+#include<Sprite.h>
+#include<SpriteBatch.h>
+#include<SpriteSheet.h>
+
+using namespace yam2d;
+
+class Player {
+	double stamina, drunkness;
+public: Player (int, int);
+		~Player ();
+		bool isPassed(bool trudat)
+		{ 
+			if (stamina <= 0)
+			trudat = true;
+			return trudat;
+		};
+};

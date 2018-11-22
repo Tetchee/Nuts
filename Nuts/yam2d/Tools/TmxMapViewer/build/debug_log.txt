@@ -1,0 +1,3 @@
+Error: [yam2d::TmxMap::loadMapFile] Map file: C:\work\yam2d\MyGame\grassland_Example.tmx could not be found!
+Error: [yam2d::`anonymous-namespace'::RefCounter::~RefCounter] 3 Memory leaks detected!
+

@@ -1,0 +1,13 @@
+﻿Build started 22.1.2013 9:39:23.
+     1>Project "Z:\yam2d\MapFromScratch\MapFromScratch.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\MapFromScratch.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt mappiebu.cpp
+         mappiebu.cpp
+     1>z:\yam2d\mapfromscratch\mappiebu.cpp(2): fatal error C1083: Cannot open include file: 'es_util.h': No such file or directory
+     1>Done Building Project "Z:\yam2d\MapFromScratch\MapFromScratch.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.37

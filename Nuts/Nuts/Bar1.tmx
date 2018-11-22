@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="15" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="woodland_indoor_0" tilewidth="32" tileheight="32">
+  <image source="woodland_indoor_0.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="257" name="pooltable_e" tilewidth="32" tileheight="32">
+  <image source="pooltable_e.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="258" name="pooltable_w" tilewidth="32" tileheight="32">
+  <image source="pooltable_w.png" width="32" height="32"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="15" height="15">
+  <data encoding="base64" compression="zlib">
+   eJwzZGBgMByCmJGRgYGJEVNcCQlj46OLEYtH9Y7qJaSXXAwAWVcivQ==
+  </data>
+ </layer>
+ <layer name="Dem tables" width="15" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBh8wBAJj4KRAV5QoPfHENSLDAAVRARk
+  </data>
+ </layer>
+ <layer name="Props" width="15" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBg4IEgGhgFFMvAooBy4ALErELsRqf4iEF+GskOAOBSIw9DEYWArGn8jEG/GohdZHAR2YrH3IxB/xqIXWZwYgKyXVgAAiBQSnA==
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="25" height="25" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="houseytileset" tilewidth="32" tileheight="32">
+  <image source="houseytileset.png" width="384" height="192"/>
+ </tileset>
+ <tileset firstgid="73" name="woodland_indoor_0" tilewidth="32" tileheight="32">
+  <image source="woodland_indoor_0.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="329" name="Street" tilewidth="32" tileheight="32">
+  <image source="Skorpio's Pack/Street.png" width="800" height="608"/>
+ </tileset>
+ <tileset firstgid="804" name="Pipes-RustyWalls" tilewidth="32" tileheight="32">
+  <image source="Skorpio's Pack/Pipes-RustyWalls.png" width="256" height="352"/>
+ </tileset>
+ <tileset firstgid="892" name="Sidewalk_dark" tilewidth="32" tileheight="32">
+  <image source="Skorpio's Pack/Sidewalk_dark.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="908" name="Logos" tilewidth="32" tileheight="32">
+  <image source="Skorpio's Pack/Logos.png" width="128" height="128"/>
+ </tileset>
+ <tileset firstgid="924" name="Cars_final" tilewidth="32" tileheight="32">
+  <image source="Skorpio's Pack/Cars_final.png" width="384" height="352"/>
+ </tileset>
+ <tileset firstgid="1056" name="Building" tilewidth="32" tileheight="32">
+  <image source="Skorpio's Pack/Building.png" width="256" height="256"/>
+ </tileset>
+ <tileset firstgid="1120" name="Objects" tilewidth="32" tileheight="32">
+  <image source="Skorpio's Pack/Objects.png" width="256" height="256"/>
+ </tileset>
+ <layer name="Tile Layer 2" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJyrZGBgqBzFo3gUDxjmJoB5gPgvEwT/A2JRIJaCYgkglodibiD+w4RQi4zFGfBjCSrYoc2AHxvQyA4ZJLYNle2QwmIfte1Qg9JGVLbDiQET2yGxPahgBymYXDvEmInH4sz47RDFoS+UkTT8C4j9mSBYggnB/gEUD8GBn1CAQXYQo66BiXw8hUj9fhRiAyjGp+Y0HfBAl/vUwgA8Ayvq
+  </data>
+ </layer>
+ <layer name="Objects" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjALagD5m2tsxiQ52UBvksTAw5LMMtCsoA6l0cH/uEA+jUTAKaA0ArOIC5g==
+  </data>
+ </layer>
+ <layer name="Collision" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20ON6AAAHgzCcQAAQ==
+  </data>
+ </layer>
+</map>

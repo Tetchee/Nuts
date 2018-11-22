@@ -1,0 +1,3 @@
+Error: [yam2d::TmxMap::loadMapFile] Map file: Mappisaatana.tmx could not be found!
+Error: [yam2d::`anonymous-namespace'::RefCounter::~RefCounter] 3 Memory leaks detected!
+

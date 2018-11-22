@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="25" height="25" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Hessu" tilewidth="32" tileheight="32">
+  <image source="woodland_indoor_0.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="257" name="pink2" tilewidth="32" tileheight="32">
+  <image source="../Nuts/pink2.png" width="32" height="32"/>
+ </tileset>
+ <layer name="joku" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJwzZGBgMKQDFqQhpqcdijTEMDuUaIhH7aCuHS5A7EoidiPRjhAgDiURh43aMWrHqB2jdqDhFCBOJRGnkWgHpXi42UFrDADg7HnA
+  </data>
+ </layer>
+ <layer name="HOMO" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFQxEco1D/UyLwMwrt+EoE/kahHaOANLAFiLcC8TYa2nEEiI8yUJ5G8YErUJqWdjxhoE4+wAe+MIzmg1EwCkYB+QAAQAUe4w==
+  </data>
+ </layer>
+ <layer name="PERSE" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjAL6gYVAvJgIscFuxxIgXkaE2CgYjfNRMApoBQCWWQ9J
+  </data>
+ </layer>
+ <layer name="SPORDe" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJxjYBjegBOKRwHpYOdAO2AUDGmAL/0sp4Md66hkxygYBaNgFAxWAACFjAOT
+  </data>
+ </layer>
+ <layer name="Def" width="25" height="25">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20ON6AAAHgzCcQAAQ==
+  </data>
+ </layer>
+ <layer name="Collision" width="25" height="25" opacity="0">
+  <data encoding="base64" compression="zlib">
+   eJxjZGRgYBzFRGNaAlLsINct9PDvYAurUTsQdtAqLaPbgUzjU4tPjFh9tLKDUFhR0x/UBoPNDnqE1XCxg1wwasfgtIPWGACz+gF1
+  </data>
+ </layer>
+</map>
